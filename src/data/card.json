@@ -1,0 +1,134 @@
+{
+    "Collection":[
+{
+    "id":"1",
+    "img":"/assest/images/card1.png",
+    "title":"School Supplies",
+    "text":"School supplies means an items commonly used by a students like Different Pencil, Rubbers, Notes, Books, Erasers, Sharperner, Bags, Markers, Registers and many others items."
+
+},
+{
+    "id":"2",
+    "img":"/assest/images/card2.png",
+    "title":"Office Supplies",
+    "text":"Office supplies means an items commonly used by a employee like Different Pens, Record Keeping, file, binders, desk organizer, flags, pen jar, file tray and many others items. "
+
+},
+{
+    "id":"3",
+    "img":"/assest/images/card3.png",
+    "title":"Birthdays & Gifts",
+    "text":"Planning a Birthday Party and Gifts can be pretty exciting.But Figuring out the suitable birthday invitation wording can be challenging task and can buy from stationer."
+
+},
+{
+    "id":"4",
+    "img":"/assest/images/card4.jpg",
+    "title":"Art & Crafts",
+    "text":"Art & Craft, Anything that can be considered decorative design and handicrafts falls under art and craft.Its involve different movement like drawing, holding a paint brush to paint"
+
+},
+{
+    "id":"5",
+    "img":"/assest/images/card5.png",
+    "title":"NotesBook",
+    "text":"Notebook is the perfect companion for capturing your thoughts, ideas, and inspirations. With its durable cover and high-quality pages, it's ideal for both personal and professional use.."
+
+},
+{
+    "id":"6",
+    "img":"/assest/images/card6.png",
+    "title":"Colors",
+    "text":"Colored pencils are perfect for adding vibrant colors to your artwork, sketches, and illustrations. With a wide range of colors and a smooth texture, they are a great addition to any artist's toolkit.."
+
+}
+],
+
+    "Supplies":[
+
+{
+    "id":"1",
+    "img":"/assest/images/pen.png",
+    "title":"Pens Collection"
+  
+},
+{
+    "id":"2",
+    "img":"/assest/images/markers.png",
+    "title":"Markers Collection"
+   
+},
+{
+    "id":"3",
+    "img":"/assest/images/blackpen.png",
+    "title":"Gel Pens"
+   
+
+},
+{
+    "id":"4",
+    "img":"/assest/images/note.png",
+    "title":"White Board Book"
+  
+
+},
+{
+    "id":"5",
+    "img":"/assest/images/ink.png",
+    "title":"Pens Ink"
+    
+
+},
+{
+    "id":"6",
+    "img":"/assest/images/lead.png",
+    "title":"Colors"
+    
+
+}
+],
+ "OfficeSupplies":[
+
+
+    {
+        "id":"1",
+        "img":"/assest/images/gel.png",
+        "title":"Ball Point"
+      
+    },
+    {
+        "id":"2",
+        "img":"/assest/images/ss.png",
+        "title":"Metal Mesh Letter Tray"
+       
+    },
+    {
+        "id":"3",
+        "img":"/assest/images/coverpng.png",
+        "title":"Metal Desk Cabinet Holder File "
+       
+    
+    },
+    {
+        "id":"4",
+        "img":"/assest/images/step.png",
+        "title":"Staple"
+      
+    
+    },
+    {
+        "id":"5",
+        "img":"/assest/images/mar.png",
+        "title":"Markers"
+        
+    
+    },
+    {
+        "id":"6",
+        "img":"/assest/images/st.png",
+        "title":"Notes"
+        
+    
+    }
+    ]
+}

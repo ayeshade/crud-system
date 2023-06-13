@@ -1,0 +1,240 @@
+.container {
+    padding: 2rem 0rem;
+  }
+  
+  h4 {
+    margin: 2rem 0rem;
+  }
+  
+  .panel {
+    border-radius: 4px;
+    padding: 1rem;
+    margin-top: 0.2rem;
+    background-color: #F5F5F5;
+    color: #323B40;
+  }
+  
+  .panel.panel-blue {
+    background-color: #E0F5FF;
+    color: #00A5FA;
+  }
+  
+  .panel.panel-big-height {
+    min-height: 150px;
+  }
+  
+  .item {
+    border-radius: 4px;
+    padding: 0.5rem;
+    margin: 0.2rem;
+  }
+  
+  .item.item-blue {
+    background-color: #B9E5FE;
+    color: #00A5FA;
+  }
+  
+  .item.item-green {
+    background-color: #B7E0DC;
+    color: #019888;
+  }
+  
+  .item.item-lime {
+    background-color: #C7E8C8;
+    color: #42B045;
+  }
+  
+  .item.item-yellow {
+    background-color: #FFEEBA;
+    color: #FF9901;
+  }
+  
+  .item.item-pink {
+    background-color: #FABAD0;
+    color: #EF075F;
+  }
+  
+  .item.item-red {
+    background-color: #FEC9C6;
+    color: #FD3D08;
+  }
+  
+  .item.item-big-width {
+    min-width: 380px;
+  }
+  
+  .btn1 {
+    float: right;
+  }
+
+
+
+
+
+  .main {
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    padding-top: 90px;
+    padding-bottom: 90px;
+    /* background-color: #71737a; */
+    height: 600px;
+  }
+  
+  .sub-main {
+    display: flex;
+    justify-content: center;
+    height: 480px;
+    width: 35%;
+    box-shadow: 11px 12px 13px 12px #71737a;
+    padding-top: 30px;
+    border-radius: 10px;
+    background-color: white;
+  }
+  
+  .profile {
+    height: 100px;
+    width: 100px;
+    border-radius: 130px;
+  }
+  
+  input {
+    width: 300px;
+    height: 50px;
+    border-radius: 60px;
+    box-shadow: inset 0px 0px 25px 0px #888;
+    border: none;
+    outline: none;
+    background-color: #fff;
+  }
+  
+  .email {
+    height: 25px;
+    width: 25px;
+    position: absolute;
+    padding: 14px 0 0 25px;
+  }
+  
+  .name {
+    padding-left: 70px;
+    font-size: 20px;
+  }
+  
+  .second-input {
+    padding-top: 20px;
+  }
+  
+  button{
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    border: none;
+  }
+  .table{
+  border: 2px;
+  
+  }
+  
+  
+  .login-button {
+    padding-top: 25px;
+  }
+  
+  .link {
+    font-size: 25px;
+    font-weight: 400;
+  }
+  
+  a {
+    color: blue;
+  }
+  
+  @media (max-width: 1024px) {
+    .sub-main {
+      width: 60%;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .sub-main {
+      width: 70%;
+    }
+  }
+  
+  @media (max-width: 600px) {
+    .sub-main {
+      width: 80%;
+      padding-top: 20px;
+      padding-bottom: 20px;
+    }
+  
+    .profile {
+      height: 80px;
+      width: 80px;
+    }
+  
+    .name {
+      font-size: 18px;
+    }
+  
+    input {
+      width: 250px;
+      height: 45px;
+    }
+  
+    button {
+      width: 70px;
+      height: 45px;
+      font-size: 20px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .sub-main {
+      width: 90%;
+    }
+  
+    input {
+      width: 90%;
+    }
+  
+    button {
+      width: 90%;
+    }
+  }
+  .table{
+        box-shadow: 11px 5px 11px 5px black;
+        padding-top: 30px;
+     }
+  .table button{
+      width: 100px;
+      height: 50px;
+      border-radius: 20px;
+      background-color: black;
+      color: white;
+      font-size: 25px;
+      border: none;
+     }
+  .table{
+      justify-content: center;
+      align-items: center;
+      border-radius: 20px;
+    }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
